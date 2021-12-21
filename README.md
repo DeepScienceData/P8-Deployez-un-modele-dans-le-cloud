@@ -1,4 +1,4 @@
-# P8-D-ployez-un-mod-le-dans-le-cloud
+# P8 Déployez un modele dans le cloud :
 
 <p float="left">
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="./imagesProjet/Logo_OpenClassrooms.png" width="200" height="200" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
